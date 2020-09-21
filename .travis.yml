@@ -1,7 +1,4 @@
 language: java
 jdk:
         - openjdk8
-<<<<<<< HEAD
         - openjdk9
-=======
->>>>>>> d742bb1997d9841e967e986507259bc195f28d1d
